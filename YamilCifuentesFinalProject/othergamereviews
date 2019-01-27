@@ -1,0 +1,72 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <title>NAVBAR</title>
+        <link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+            
+        <ul class="nav">
+            
+            <div class="logo">
+                
+                Yamil Video Game Reviews 
+            </div>
+            
+            <li><a href="index2.html"> Home</a></li>
+            <li><a href="playStationreviews.html"> PlayStation Game Reviews</a></li>
+            <li><a href="nintendoreviews.html"> Nintendo Game Reviews</a></li>
+            <li><a href="rockstarreviews.html"> Rockstar Game Reviews</a></li>
+            <li><a href="activisionreviews.html"> Activision Game Reviews</a></li>
+            <li><a href="contacts.html"> Contacts</a></li>
+        </ul>
+            <div class="banner">
+            <img class="banner-image" src="BANNER.jpg">
+            
+    
+        </div>
+        
+        <div>
+        	
+      <div align="center" class="test">
+           
+        	<h1><span class="headingMuted">Hey Everyone!</span>
+  This is my fricking website where I will be discussing some of my favorite games   </h1>
+            
+            
+            <div class="heading">
+      <div align="center" class="test">
+           <div class="test"></div>
+  <img src="videogamebanner.jpg" height="400" width="1600" alt="SVideo Game is life">
+  
+  <div class="heading">
+      <div align="center" class="test">
+           <div class="test"
+                        
+  <hr size="1">
+  <h2> Why I love video games </h2>
+  <img src="mygameboy.jpg" height="400" width="400">
+       <img src="superstarsaga.PNG"
+  
+  <hr size="1">
+  
+  
+  <p> It started way back in 2002 when I saw how cool the Gameboy Advance was when I saw my cousins playing with them. Since there was no smart phones at the time and there was not really nothing much to do, I told my parents that I wanted a Gameboy to keep me occupied. Soon, I got my very own Gameboy to put in my pocket. It even came with my first Gameboy game ever, Mario and Luigi Superstar Saga... which was a really fun game to play with. I soon got my second game, which was Wario Land 4 which was really frustrating because boss levels were so fricking hard.    </p>
+  
+ 
+  <p> After the Gameboy was a really interesting time because the PlayStation 2 was really hot at the time and my older brother got rated M games especially a popular title called Grand Theft Auto Vice City. My bolder brother forbid me to play these games but there was no way I'm gonna listen. When he's not home, I would use the spare memory card and play some Grand Theft Auto. Even though I couldn't really read at the time and I didn't really know where to go, a majority of the time I would make the player just kill civilians for no reason and steal cars. As a got older, I started understanding the game a little better so I managed to commplete the game in the future. Those were fun times and thankfully playing M rated games didn't messed me up as a child. 
+     	
+        	
+        </div>
+</body>
+</html><!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+</body>
+</html>
